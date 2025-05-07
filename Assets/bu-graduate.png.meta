@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: c929453b7ca404a489156f930bee3207
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8806548212516584230
+    second: bu-graduate_0
+  - first:
+      213: 7366156840475908377
+    second: bu-graduate_1
+  - first:
+      213: -645961415170412616
+    second: bu-graduate_2
+  - first:
+      213: -7302753557591976980
+    second: bu-graduate_3
+  - first:
+      213: 6909807834280562576
+    second: bu-graduate_4
+  - first:
+      213: -7102666357159396505
+    second: bu-graduate_5
+  - first:
+      213: 1240663198058930946
+    second: bu-graduate_6
+  - first:
+      213: -2925394719508372120
+    second: bu-graduate_7
+  - first:
+      213: 8220794282158476612
+    second: bu-graduate_8
+  - first:
+      213: 6908658794684876970
+    second: bu-graduate_9
+  - first:
+      213: -1435257538292827511
+    second: bu-graduate_10
+  - first:
+      213: -4090829239472123172
+    second: bu-graduate_11
+  - first:
+      213: 1137418188424409645
+    second: bu-graduate_12
+  - first:
+      213: -3694411374218855194
+    second: bu-graduate_13
+  - first:
+      213: -7579612145997724370
+    second: bu-graduate_14
+  - first:
+      213: 3788572329832796868
+    second: bu-graduate_15
+  - first:
+      213: -4385553202198229131
+    second: bu-graduate_16
+  - first:
+      213: -1937362177799438897
+    second: bu-graduate_17
+  - first:
+      213: -2008729318246499355
+    second: bu-graduate_18
+  - first:
+      213: -2570905914923851229
+    second: bu-graduate_19
+  - first:
+      213: 5910651100971339065
+    second: bu-graduate_20
+  - first:
+      213: -6352191002760877887
+    second: bu-graduate_21
+  - first:
+      213: -8607667428229629636
+    second: bu-graduate_22
+  - first:
+      213: 3423419057263843664
+    second: bu-graduate_23
+  - first:
+      213: 7347924805920737728
+    second: bu-graduate_24
+  - first:
+      213: -320122395453002510
+    second: bu-graduate_25
+  - first:
+      213: 8850445656073471885
+    second: bu-graduate_26
+  - first:
+      213: 2017774047290312146
+    second: bu-graduate_27
+  - first:
+      213: 2730439538495714616
+    second: bu-graduate_28
+  - first:
+      213: 596528759441488005
+    second: bu-graduate_29
+  - first:
+      213: -1459123275698251696
+    second: bu-graduate_30
+  - first:
+      213: -106794022745412587
+    second: bu-graduate_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bu-graduate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 1151
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bf660b0f4273a70800000000000000
+      internalID: 8806548212516584230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_1
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 515
+        width: 202
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919516c6e98d93660800000000000000
+      internalID: 7366156840475908377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_2
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 515
+        width: 240
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa82ee3851907f0800000000000000
+      internalID: -645961415170412616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 515
+        width: 214
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3928db45867aa90800000000000000
+      internalID: -7302753557591976980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_4
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 508
+        width: 204
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f01849d9194ef50800000000000000
+      internalID: 6909807834280562576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_5
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 515
+        width: 222
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b756764924e6d90800000000000000
+      internalID: -7102666357159396505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_6
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 511
+        width: 207
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203e336fa98b73110800000000000000
+      internalID: 1240663198058930946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_7
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 515
+        width: 222
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86566e38009e667d0800000000000000
+      internalID: -2925394719508372120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_8
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 206
+        width: 171
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d4e9f08d0261270800000000000000
+      internalID: 8220794282158476612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_9
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 210
+        width: 171
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80293f19c70ef50800000000000000
+      internalID: 6908658794684876970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_10
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 210
+        width: 52
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98abadc8fd0f41ce0800000000000000
+      internalID: -1435257538292827511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_11
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 210
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29b781b747a37c0800000000000000
+      internalID: -4090829239472123172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_12
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 210
+        width: 141
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22fa1ae0dbe8cf00800000000000000
+      internalID: 1137418188424409645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_13
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 210
+        width: 171
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb581dd60dabcc0800000000000000
+      internalID: -3694411374218855194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_14
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 206
+        width: 168
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c19669eecfc690800000000000000
+      internalID: -7579612145997724370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_15
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 210
+        width: 52
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2de851676b39430800000000000000
+      internalID: 3788572329832796868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_16
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 210
+        width: 167
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc56729926323c0800000000000000
+      internalID: -4385553202198229131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_17
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 210
+        width: 191
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdbcf62d5b1d15e0800000000000000
+      internalID: -1937362177799438897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_18
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 0
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb3108e35f8f14e0800000000000000
+      internalID: -2008729318246499355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_19
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1
+        width: 95
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322630e01be425cd0800000000000000
+      internalID: -2570905914923851229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_20
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1
+        width: 107
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d0ba04cd9d60250800000000000000
+      internalID: 5910651100971339065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_21
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8610730fb78d7a0800000000000000
+      internalID: -6352191002760877887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_22
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 0
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c393ca3541c6b8880800000000000000
+      internalID: -8607667428229629636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_23
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1
+        width: 107
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05993899e7d628f20800000000000000
+      internalID: 3423419057263843664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_24
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1
+        width: 93
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9cf251ea219f560800000000000000
+      internalID: 7347924805920737728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_25
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc606e9062be8bf0800000000000000
+      internalID: -320122395453002510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_26
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 0
+        width: 95
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87882abe6913da70800000000000000
+      internalID: 8850445656073471885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_27
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 0
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5cdbd2ec2900c10800000000000000
+      internalID: 2017774047290312146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_28
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1
+        width: 95
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f7b43b4874e520800000000000000
+      internalID: 2730439538495714616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_29
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 0
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58870d40fbb474800800000000000000
+      internalID: 596528759441488005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_30
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 0
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058508c8c1720cbe0800000000000000
+      internalID: -1459123275698251696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bu-graduate_31
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1
+        width: 73
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cef12f667948ef0800000000000000
+      internalID: -106794022745412587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bu-graduate_0: 8806548212516584230
+      bu-graduate_1: 7366156840475908377
+      bu-graduate_10: -1435257538292827511
+      bu-graduate_11: -4090829239472123172
+      bu-graduate_12: 1137418188424409645
+      bu-graduate_13: -3694411374218855194
+      bu-graduate_14: -7579612145997724370
+      bu-graduate_15: 3788572329832796868
+      bu-graduate_16: -4385553202198229131
+      bu-graduate_17: -1937362177799438897
+      bu-graduate_18: -2008729318246499355
+      bu-graduate_19: -2570905914923851229
+      bu-graduate_2: -645961415170412616
+      bu-graduate_20: 5910651100971339065
+      bu-graduate_21: -6352191002760877887
+      bu-graduate_22: -8607667428229629636
+      bu-graduate_23: 3423419057263843664
+      bu-graduate_24: 7347924805920737728
+      bu-graduate_25: -320122395453002510
+      bu-graduate_26: 8850445656073471885
+      bu-graduate_27: 2017774047290312146
+      bu-graduate_28: 2730439538495714616
+      bu-graduate_29: 596528759441488005
+      bu-graduate_3: -7302753557591976980
+      bu-graduate_30: -1459123275698251696
+      bu-graduate_31: -106794022745412587
+      bu-graduate_4: 6909807834280562576
+      bu-graduate_5: -7102666357159396505
+      bu-graduate_6: 1240663198058930946
+      bu-graduate_7: -2925394719508372120
+      bu-graduate_8: 8220794282158476612
+      bu-graduate_9: 6908658794684876970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
